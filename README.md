@@ -2,7 +2,7 @@
 Blockchain Prototype
 
 Link to intro: 
-https://connectpolyu-my.sharepoint.com/:b:/g/personal/21006764d_connect_polyu_hk/EbZERk4VV6NJnOhNBbVwBPUBw3hVXdlg9pXwQVAziT3PgA?e=Zak8Hy
+https://1drv.ms/f/s!AihRLiwRrCiJgYNvSW19MZMYQwAESA?e=MlCWuz
 
 Link to demo: 
 https://drive.google.com/file/d/1o17YjrQNzMMQHiC8aFHDMihdraFo9MRP/view
